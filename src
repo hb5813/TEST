@@ -18,6 +18,11 @@ CETV-1,http://39.135.33.12/PLTV/88888888/224/3221226060/index.m3u8
 CETV-4,http://39.135.33.12/PLTV/88888888/224/3221226787/index.m3u8
 CGTN 中国国际电视台,http://39.135.33.12/PLTV/88888888/224/3221226155/index.m3u8
 
+南宁新闻综合,rtmp://rtmp.nntv.cn/nnlive/NNTV_NEWS_A
+南宁都市生活,rtmp://rtmp.nntv.cn/nnlive/NNTV_METRO_A
+南宁影视娱乐,rtmp://rtmp.nntv.cn/nnlive/NNTV_VOD_A
+南宁公共,rtmp://rtmp.nntv.cn/nnlive/NNTV_PUB_A
+
 广西卫视,http://39.135.33.12/PLTV/88888888/224/3221226420/index.m3u8
 湖南卫视,http://39.135.33.12/PLTV/88888888/224/3221225951/index.m3u8
 浙江卫视,http://39.135.33.12/PLTV/88888888/224/3221225959/index.m3u8
@@ -51,11 +56,6 @@ CGTN 中国国际电视台,http://39.135.33.12/PLTV/88888888/224/3221226155/inde
 新疆卫视,http://39.135.33.12/PLTV/88888888/224/3221226484/index.m3u8
 云南卫视,http://39.135.33.12/PLTV/88888888/224/3221226468/index.m3u8
 重庆卫视,http://39.135.33.12/PLTV/88888888/224/3221226050/index.m3u8
-
-南宁新闻综合,rtmp://rtmp.nntv.cn/nnlive/NNTV_NEWS_A
-南宁都市生活,rtmp://rtmp.nntv.cn/nnlive/NNTV_METRO_A
-南宁影视娱乐,rtmp://rtmp.nntv.cn/nnlive/NNTV_VOD_A
-南宁公共,rtmp://rtmp.nntv.cn/nnlive/NNTV_PUB_A
 
 黑莓电竞,http://39.135.33.12/PLTV/88888888/224/3221225919/index.m3u8
 黑莓电影,http://39.135.33.12/PLTV/88888888/224/3221225872/index.m3u8
